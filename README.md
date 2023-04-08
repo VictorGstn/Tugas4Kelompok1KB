@@ -98,6 +98,7 @@ g.gbfs(start, goal, heuristic)
 <img width="314" alt="image" src="https://user-images.githubusercontent.com/108170210/230701913-3ab905f9-6abf-4ad2-bcde-5d88c6285840.png">
 
 ### Berikut adalah output dari implementasi Greedy BFS
+<img width="407" alt="image" src="https://user-images.githubusercontent.com/108170210/230701996-1376a225-cedc-4b3b-96e4-4d34eb7f3e1c.png">
 
 ### Referensi greedy BFS :
 - PPT KB Informed Search
