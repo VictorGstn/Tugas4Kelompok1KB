@@ -102,6 +102,7 @@ g.gbfs(start, goal, heuristic)
 
 ### Referensi greedy BFS :
 - PPT KB Informed Search
+- Bahan asistensi 1 KB (Sabtu, 11/03/2023)
 
 ### Apa itu A* ?
 
