@@ -94,6 +94,9 @@ goal = 'Surabaya'
 g.gbfs(start, goal, heuristic)
 ```
 
+### Alur Greedy BFS
+<img width="314" alt="image" src="https://user-images.githubusercontent.com/108170210/230701913-3ab905f9-6abf-4ad2-bcde-5d88c6285840.png">
+
 ### Berikut adalah output dari implementasi Greedy BFS
 
 ### Referensi greedy BFS :
@@ -202,6 +205,8 @@ def print_shortest_path(graph, start, goal, heuristic_func):
 
 print_shortest_path(graf, "Magetan", "Surabaya", heuristic_distance)
 ```
+### Alur A* algorithm
+<img width="368" alt="image" src="https://user-images.githubusercontent.com/108170210/230701947-6242aba4-54b6-46b6-a50b-5a7b36c7e0e1.png">
 
 ### Berikut adalah output dari implementasi A* Algorithm
 
